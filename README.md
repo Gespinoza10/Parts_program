@@ -25,4 +25,6 @@ The output gives you the following:
 * setfill('$') was key to fill the total space with $$$
 * cout<<left was key to align our out put starting on the left
 * cout<<right was key to align our output starting from the right
-* fixed and setprecision() was key for the decimal spacing for the total amount              
+* fixed and setprecision() was key for the decimal spacing for the total amount  
+             
+#### C++ Library - iomanip and iostream are included for the code to compile
